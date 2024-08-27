@@ -10,7 +10,6 @@ public class RouletteController : MonoBehaviour
     // Start is called before the first frame update
     public float rotSpeed = 0; //회전 속도
 
-    public String text1 = "운수나쁨";
 
 
     void Start()
